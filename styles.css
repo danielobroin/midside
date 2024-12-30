@@ -5,6 +5,10 @@
     src: url(DSEG14Classic-Italic.woff2);
 }
 
+body {
+    background-color: springgreen;
+}
+
 H1{
     font-family: DSEG14ClassicItalic;
     opacity: 0%;
